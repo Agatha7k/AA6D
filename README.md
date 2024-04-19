@@ -21,7 +21,7 @@ pwd=jm3r
 ├── image_lists/  
 ├── detector_annotations/    
 ├── test_targets_bop19.json  
-├── train/00000~000080/  
+├── train/00000~000080/    
 │   ├── rgb/  
 │   ├── mask_visib/  
 │   ├── mask/  
