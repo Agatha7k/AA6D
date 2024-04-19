@@ -21,7 +21,7 @@ pwd=jm3r
 ├── image_lists/  
 ├── detector_annotations/    
 ├── test_targets_bop19.json  
-├── train/00000~000080/    
+├── train/000000、...、000080/    
 │   ├── rgb/  
 │   ├── mask_visib/  
 │   ├── mask/  
@@ -30,7 +30,7 @@ pwd=jm3r
 │   ├── scene_gt.json  
 │   ├── transform.npy  
 │   ├── scene_camera.json  
-├── test/00000~000020/    
+├── test/000000、...、000020/    
 │   ├── rgb/  
 │   ├── mask_visib/  
 │   ├── mask/  
